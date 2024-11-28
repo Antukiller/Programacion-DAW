@@ -8,9 +8,8 @@ Este repositorio contiene los proyectos de programación que he desarrollado dur
 
 ## 🚀 Tecnologías Utilizadas
 
-- **Lenguajes de Programación:** Java, JavaScript, HTML, CSS, etc.
-- **Frameworks y Librerías:** Spring, Angular, React, etc.
-- **Bases de Datos:** MySQL, MongoDB, etc.
+- **Lenguajes de Programación:** Kotlin, HTML, CSS.
+- **Bases de Datos:** MySQL, MariaDB.
 - **Herramientas de Desarrollo:** Git, IntelliJ IDEA, Visual Studio Code, etc.
 
 ## 🛠️ Instalación
